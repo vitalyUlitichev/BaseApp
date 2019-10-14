@@ -1,0 +1,16 @@
+C:\Users\vetulitichev\RiderProjects\Services\UserServices\bin\Debug\netcoreapp3.0\UserServices.deps.json
+C:\Users\vetulitichev\RiderProjects\Services\UserServices\bin\Debug\netcoreapp3.0\UserServices.dll
+C:\Users\vetulitichev\RiderProjects\Services\UserServices\bin\Debug\netcoreapp3.0\UserServices.pdb
+C:\Users\vetulitichev\RiderProjects\Services\UserServices\obj\Debug\netcoreapp3.0\UserServices.csprojAssemblyReference.cache
+C:\Users\vetulitichev\RiderProjects\Services\UserServices\obj\Debug\netcoreapp3.0\UserServices.AssemblyInfoInputs.cache
+C:\Users\vetulitichev\RiderProjects\Services\UserServices\obj\Debug\netcoreapp3.0\UserServices.AssemblyInfo.cs
+C:\Users\vetulitichev\RiderProjects\Services\UserServices\obj\Debug\netcoreapp3.0\UserServices.dll
+C:\Users\vetulitichev\RiderProjects\Services\UserServices\obj\Debug\netcoreapp3.0\UserServices.pdb
+C:\Users\vetulitichev\RiderProjects\BaseApp\Services\UserServices\bin\Debug\netcoreapp3.0\UserServices.deps.json
+C:\Users\vetulitichev\RiderProjects\BaseApp\Services\UserServices\bin\Debug\netcoreapp3.0\UserServices.dll
+C:\Users\vetulitichev\RiderProjects\BaseApp\Services\UserServices\bin\Debug\netcoreapp3.0\UserServices.pdb
+C:\Users\vetulitichev\RiderProjects\BaseApp\Services\UserServices\obj\Debug\netcoreapp3.0\UserServices.csprojAssemblyReference.cache
+C:\Users\vetulitichev\RiderProjects\BaseApp\Services\UserServices\obj\Debug\netcoreapp3.0\UserServices.AssemblyInfoInputs.cache
+C:\Users\vetulitichev\RiderProjects\BaseApp\Services\UserServices\obj\Debug\netcoreapp3.0\UserServices.AssemblyInfo.cs
+C:\Users\vetulitichev\RiderProjects\BaseApp\Services\UserServices\obj\Debug\netcoreapp3.0\UserServices.dll
+C:\Users\vetulitichev\RiderProjects\BaseApp\Services\UserServices\obj\Debug\netcoreapp3.0\UserServices.pdb

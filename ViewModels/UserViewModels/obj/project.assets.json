@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "UserServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/UserServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserServices/1.0.0": {
+      "type": "project",
+      "path": "../../Services/UserServices/UserServices.csproj",
+      "msbuildProject": "../../Services/UserServices/UserServices.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "UserServices >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vetulitichev\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\vetulitichev\\RiderProjects\\BaseApp\\ViewModels\\UserViewModels\\UserViewModels.csproj",
+      "projectName": "UserViewModels",
+      "projectPath": "C:\\Users\\vetulitichev\\RiderProjects\\BaseApp\\ViewModels\\UserViewModels\\UserViewModels.csproj",
+      "packagesPath": "C:\\Users\\vetulitichev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vetulitichev\\RiderProjects\\BaseApp\\ViewModels\\UserViewModels\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\vetulitichev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\vetulitichev\\RiderProjects\\BaseApp\\Services\\UserServices\\UserServices.csproj": {
+              "projectPath": "C:\\Users\\vetulitichev\\RiderProjects\\BaseApp\\Services\\UserServices\\UserServices.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

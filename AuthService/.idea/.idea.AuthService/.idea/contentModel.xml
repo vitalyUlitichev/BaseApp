@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\vetulitichev\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\vetulitichev\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AuthService.-484360589.00" t="ExcludeRecursive" />
+    <e p="C:\Users\vetulitichev\RiderProjects\BaseApp\AuthService" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="AuthService.csproj" t="IncludeRecursive" />
+      <e p="AuthService.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="UserController.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="AuthService.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="UsersViewModels" t="Include">
+        <e p="obj" t="Include">
+          <e p="project.assets.json" t="Include" />
+          <e p="UsersViewModels.csproj.nuget.cache" t="Include" />
+          <e p="UsersViewModels.csproj.nuget.dgspec.json" t="Include" />
+          <e p="UsersViewModels.csproj.nuget.g.props" t="Include" />
+          <e p="UsersViewModels.csproj.nuget.g.targets" t="Include" />
+        </e>
+      </e>
+    </e>
+    <e p="C:\Users\vetulitichev\RiderProjects\BaseApp\DataContext" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DataContext.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="DataContext.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="UserContext.cs" t="Include" />
+    </e>
+    <e p="C:\Users\vetulitichev\RiderProjects\BaseApp\DataModels" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DataModels.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="DataModels.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="UserDataModel.cs" t="Include" />
+    </e>
+    <e p="C:\Users\vetulitichev\RiderProjects\BaseApp\Services\UserServices" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="UserServices.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="UserService.cs" t="Include" />
+      <e p="UserServices.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\vetulitichev\RiderProjects\BaseApp\ViewModels\UserViewModels" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="UserViewModels.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="UserViewModel.cs" t="Include" />
+      <e p="UserViewModels.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

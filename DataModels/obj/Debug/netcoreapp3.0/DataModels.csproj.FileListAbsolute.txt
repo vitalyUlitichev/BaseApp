@@ -1,0 +1,16 @@
+C:\Users\vetulitichev\RiderProjects\DataModels\bin\Debug\netcoreapp3.0\DataModels.deps.json
+C:\Users\vetulitichev\RiderProjects\DataModels\bin\Debug\netcoreapp3.0\DataModels.dll
+C:\Users\vetulitichev\RiderProjects\DataModels\bin\Debug\netcoreapp3.0\DataModels.pdb
+C:\Users\vetulitichev\RiderProjects\DataModels\obj\Debug\netcoreapp3.0\DataModels.csprojAssemblyReference.cache
+C:\Users\vetulitichev\RiderProjects\DataModels\obj\Debug\netcoreapp3.0\DataModels.AssemblyInfoInputs.cache
+C:\Users\vetulitichev\RiderProjects\DataModels\obj\Debug\netcoreapp3.0\DataModels.AssemblyInfo.cs
+C:\Users\vetulitichev\RiderProjects\DataModels\obj\Debug\netcoreapp3.0\DataModels.dll
+C:\Users\vetulitichev\RiderProjects\DataModels\obj\Debug\netcoreapp3.0\DataModels.pdb
+C:\Users\vetulitichev\RiderProjects\BaseApp\DataModels\bin\Debug\netcoreapp3.0\DataModels.deps.json
+C:\Users\vetulitichev\RiderProjects\BaseApp\DataModels\bin\Debug\netcoreapp3.0\DataModels.dll
+C:\Users\vetulitichev\RiderProjects\BaseApp\DataModels\bin\Debug\netcoreapp3.0\DataModels.pdb
+C:\Users\vetulitichev\RiderProjects\BaseApp\DataModels\obj\Debug\netcoreapp3.0\DataModels.csprojAssemblyReference.cache
+C:\Users\vetulitichev\RiderProjects\BaseApp\DataModels\obj\Debug\netcoreapp3.0\DataModels.AssemblyInfoInputs.cache
+C:\Users\vetulitichev\RiderProjects\BaseApp\DataModels\obj\Debug\netcoreapp3.0\DataModels.AssemblyInfo.cs
+C:\Users\vetulitichev\RiderProjects\BaseApp\DataModels\obj\Debug\netcoreapp3.0\DataModels.dll
+C:\Users\vetulitichev\RiderProjects\BaseApp\DataModels\obj\Debug\netcoreapp3.0\DataModels.pdb
